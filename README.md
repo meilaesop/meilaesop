@@ -1,26 +1,29 @@
-# About me
+#关于我
 
+meilaesop/meilaesop 是一个 ✨ 特别的 ✨ 代码仓库，因为它的 README.md 文件（就是这个文件）会显示在你的 GitHub 个人主页上。
 
-**meilaesop/meilaesop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好！我是 meilaesop，一位目前正在深耕 Web 开发领域的热情开发者。
 
-Hi there! I'm meilaesop, a passionate developer currently diving into web development.
+##🛠️ 技术栈与兴趣方向
 
-## 🛠️ Tech Stack & Interests
-- 🌱 Currently learning **Django** web framework
-- 💻 Interested in Python, web development, and backend technologies
-- 🔭 Exploring Django REST framework, databases, and scalable applications
+· 🌱 目前正在学习 Django Web 框架
+· 💻 对 Python、Web 开发和后端技术感兴趣
+· 🔭 正在探索 Django REST 框架、数据库以及可扩展的应用程序
 
-## 📌 Current Status
-- Building Django projects to strengthen my backend skills
-- Learning about authentication, ORM, and API development
-- Open to contributing to open-source Django projects
+##📌 当前状态
 
-## 🤝 Let's Connect
-- 📫 How to reach me: meilaesop@gmail.com
-- 💼 LinkedIn: [你的LinkedIn链接]
-- 💬 Ask me about: Django, Python basics, or getting started with web development
+· 正在构建 Django 项目以巩固后端技能
+· 学习认证、ORM 和 API 开发相关知识
+· 乐于为开源的 Django 项目贡献代码
 
-## ⚡ Quick Facts
-- 😄 Pronouns: [你的代词，如 he/him, she/her, they/them]
-- 🎯 Currently focusing on: Building a personal portfolio with Django
-- 🌟 Fun fact: [有趣的事实，比如“能把咖啡直接转换成代码”或“曾经用Django三天建了个博客系统”]
+##🤝 与我联系
+
+· 📫 联系邮箱：meilaesop@gmail.com
+· 💼 领英：[你的 LinkedIn 链接]
+· 💬 可以向我咨询：Django、Python 基础，或者如何开始 Web 开发
+
+##⚡ 快速了解
+
+· 😄 人称代词：[你的代词，例如 他/他，她/她，他们/他们]
+· 🎯 当前专注：使用 Django 构建个人作品集
+· 🌟 趣闻：[有趣的事实，例如“能将咖啡因直接转化为代码”或“曾用 Django 三天内搭建了一个博客系统”]
